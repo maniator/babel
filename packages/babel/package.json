@@ -70,7 +70,7 @@
     "shebang-regex": "^1.0.0",
     "slash": "^1.0.0",
     "source-map": "^0.4.0",
-    "source-map-support": "^0.2.10",
+    "source-map-support": "^0.5.19",
     "to-fast-properties": "^1.0.0",
     "trim-right": "^1.0.0",
     "try-resolve": "^1.0.0"
