@@ -54,7 +54,7 @@
     "globals": "^6.4.0",
     "home-or-tmp": "^1.0.0",
     "is-integer": "^1.0.4",
-    "js-tokens": "1.0.1",
+    "js-tokens": "1.0.3",
     "json5": "^0.4.0",
     "line-numbers": "0.2.0",
     "lodash": "^3.10.0",
