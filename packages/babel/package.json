@@ -44,7 +44,7 @@
     "babel-plugin-undefined-to-void": "^1.1.6",
     "babylon": "^5.8.22",
     "bluebird": "^2.9.33",
-    "chalk": "^1.0.0",
+    "chalk": "^2.0.0",
     "convert-source-map": "^1.1.0",
     "core-js": "^1.0.0",
     "debug": "^2.1.1",
